@@ -1,0 +1,282 @@
+[
+ {
+  "id": "L-001",
+  "direction": "level64w2",
+  "terms": [
+   {
+    "coeff": -2,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "4": -2,
+     "8": 4,
+     "32": -1,
+     "64": 2
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "2": 4,
+     "4": -2,
+     "8": -1,
+     "16": 2,
+     "32": -1,
+     "64": 2
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": 4,
+     "2": -2,
+     "8": -1,
+     "16": 2,
+     "32": -1,
+     "64": 2
+    }
+   }
+  ],
+  "weight": 2,
+  "level": 64,
+  "character": "trivial",
+  "terms_verified": 200,
+  "sparsity": 3,
+  "novelty_notes": "Primitive; not a q->q^m substitution of MF-001..015 / W-001..030."
+ },
+ {
+  "id": "L-002",
+  "direction": "level64w2",
+  "terms": [
+   {
+    "coeff": -2,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "8": -1,
+     "32": 4
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "4": -2,
+     "8": 4,
+     "32": -1,
+     "64": 2
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "4": 2,
+     "8": -2,
+     "16": 2,
+     "32": -1,
+     "64": 2
+    }
+   }
+  ],
+  "weight": 2,
+  "level": 64,
+  "character": "trivial",
+  "terms_verified": 200,
+  "sparsity": 3,
+  "novelty_notes": "Primitive; not a q->q^m substitution of MF-001..015 / W-001..030."
+ },
+ {
+  "id": "L-003",
+  "direction": "level64w2",
+  "terms": [
+   {
+    "coeff": -2,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "8": 3
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "2": 4,
+     "8": -2,
+     "16": 2
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": 4,
+     "2": -2,
+     "4": 2,
+     "8": -2,
+     "16": 2
+    }
+   }
+  ],
+  "weight": 2,
+  "level": 64,
+  "character": "trivial",
+  "terms_verified": 200,
+  "sparsity": 3,
+  "novelty_notes": "Primitive; not a q->q^m substitution of MF-001..015 / W-001..030."
+ },
+ {
+  "id": "L-004",
+  "direction": "level64w2",
+  "terms": [
+   {
+    "coeff": -2,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "4": 2,
+     "8": -1,
+     "16": -2,
+     "32": 4
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "8": 4,
+     "16": -2,
+     "32": -1,
+     "64": 2
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "4": 4,
+     "8": -2,
+     "32": -1,
+     "64": 2
+    }
+   }
+  ],
+  "weight": 2,
+  "level": 64,
+  "character": "trivial",
+  "terms_verified": 200,
+  "sparsity": 3,
+  "novelty_notes": "Primitive; not a q->q^m substitution of MF-001..015 / W-001..030."
+ },
+ {
+  "id": "L-005",
+  "direction": "level64w2",
+  "terms": [
+   {
+    "coeff": -4,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "16": -2,
+     "32": 3,
+     "64": 2
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "2": 4,
+     "4": -2,
+     "32": -2,
+     "64": 4
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": 4,
+     "2": -2,
+     "32": -2,
+     "64": 4
+    }
+   },
+   {
+    "coeff": 2,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "4": 2,
+     "8": -1,
+     "32": -2,
+     "64": 4
+    }
+   }
+  ],
+  "weight": 2,
+  "level": 64,
+  "character": "trivial",
+  "terms_verified": 200,
+  "sparsity": 4,
+  "novelty_notes": "Primitive; not a q->q^m substitution of MF-001..015 / W-001..030."
+ },
+ {
+  "id": "L-006",
+  "direction": "level64w2",
+  "terms": [
+   {
+    "coeff": 2,
+    "edict": {
+     "1": 2,
+     "2": -1,
+     "8": -2,
+     "16": 4,
+     "32": -1,
+     "64": 2
+    }
+   },
+   {
+    "coeff": 1,
+    "edict": {
+     "1": -2,
+     "2": 3,
+     "4": 3,
+     "8": -2,
+     "16": -1,
+     "32": 1,
+     "64": 2
+    }
+   },
+   {
+    "coeff": -1,
+    "edict": {
+     "1": 2,
+     "2": 1,
+     "4": -1,
+     "16": -1,
+     "32": 1,
+     "64": 2
+    }
+   },
+   {
+    "coeff": -2,
+    "edict": {
+     "2": -2,
+     "4": 3,
+     "8": 3,
+     "16": -3,
+     "32": 1,
+     "64": 2
+    }
+   }
+  ],
+  "weight": 2,
+  "level": 64,
+  "character": "trivial",
+  "terms_verified": 200,
+  "sparsity": 4,
+  "novelty_notes": "Primitive; not a q->q^m substitution of MF-001..015 / W-001..030."
+ }
+]
